@@ -1,2 +1,2 @@
 # Java-Reservation-System
-Jaba-based Resort Reservation System ( For Educational Purpose only )
+Java-based Resort Reservation System ( For Educational Purpose only ) with Research Documentation
